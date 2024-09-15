@@ -31,8 +31,27 @@ Constantes
 Strings (textos): "" ''  ``
 Number: 2 1.4
 Funcion
+Boolean: true, false
 
 ## Operadores
 
 Operados de atribuição de valor
+Operador de contemação
 
+## Estruturas de dados: 
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado 
+
+### Objetos:
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+
+## Functions
+
+Criar, passar argumeno  
+Executar
+Arrow function / named function
