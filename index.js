@@ -1,14 +1,8 @@
-let meta = {
-    value: 'ler um livro por mês',
-    checked: true,
-}
+// 
+let mensagem = "olá, mundo"
+console.log(mensagem);
+console.log(mensagem);
+console.log(mensagem);
+console.log(mensagem);
+console.log(mensagem);
 
-let metas = [
-    meta,
-    {
-        value: "caminhar 20 minutos tods os dias",
-        checked: false
-    }
-]
-
-console.log(metas[1].value)
