@@ -10,7 +10,7 @@ const start = () => {
             console.log("vamos listar")
             break 
         case "sair":
-            return
+            return 
        }
     }
 
