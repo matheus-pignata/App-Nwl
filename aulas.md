@@ -55,3 +55,7 @@ Acesso a propriedades de objetos
 Criar, passar argumeno  
 Executar
 Arrow function / named function
+
+# Estrutura de repetição
+
+While
