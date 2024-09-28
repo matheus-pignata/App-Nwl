@@ -63,3 +63,12 @@ While
 # Condicionais
 
 Switch
+
+## Modulos em Node.js:
+
+- Importação de módulos (require, CmmpnJS)
+- Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assícrona e Promises:
+
+- Uso de funções assícronas (async/await)
