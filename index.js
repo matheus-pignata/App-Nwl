@@ -48,12 +48,12 @@ const listarMetas = async () => {
 }
 
 const metasRealizadas = async () => {
-    const realizadas = metas.filter((mea) => {
+    const realizadas = metas.filter((meta) => {
         return meta.checked
     })
 
     if(realizadas.length == 0) {
-        console.log('Não existem mets realizadas! :(')
+        console.log("Não existem metas realizadas! :) ")
         return
     }
 
