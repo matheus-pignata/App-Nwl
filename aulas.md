@@ -44,6 +44,7 @@ Como um lego, você irá utilizar peças para criar algotimos, ou para resolver 
 ### Arrays:
 
 - Uma lista que contém qualquer tipo de dado 
+- Metodos de array: push, find, forEach
 
 ### Objetos:
 
