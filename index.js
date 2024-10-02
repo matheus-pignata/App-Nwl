@@ -78,7 +78,7 @@ const metasAbertas = async () => {
     }
 
     await select({
-        message: "Metas Abertas " + abertas.length,
+        message: "Metas Abertas: " + abertas.length,
         choices: [...abertas]
     })
 
@@ -93,7 +93,7 @@ const itemsADdeletar = await checkbox({
         choices: [...metasDesmarcadas],
         instructions: false,
     })
-    if(itemsADdeletar == 0) {
+    if(itemsADdeletar.length == 0) {
         console.log("Nunhum utem para deletar") 
         return
     }
